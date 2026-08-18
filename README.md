@@ -1,28 +1,13 @@
-Sim. E, como você está no começo, eu não faria seu README parecer o de alguém que já é especialista em Cybersecurity. O diferencial vai ser justamente mostrar evolução, projetos reais e construção de carreira desde o primeiro semestre.
-
-Eu consigo montar a versão exclusiva para você, mas nesta recuperação não apareceram os nomes exatos dos 5 projetos do semestre nem o nome do projeto que você está idealizando. Não quero inventar e colocar projetos diferentes dos que havíamos escolhido.
-
-O que já consigo preservar:
-
-* 22 anos
-* Engenharia de Software
-* UniCEUB
-* 1º semestre
-* Conhecimentos atuais: Python e SQL
-* Estudando Cybersecurity
-* Inglês: básico/intermediário
-* Espanhol: intermediário
-* Italiano: básico
-* Português: fluente/nativo
-* README com estética futurista + tecnológica, mas coerente com alguém em início de carreira
-* Seus projetos como parte de uma trajetória, não como se você já tivesse experiência profissional
-
-E eu faria algo nessa linha:
-
 CAROLINA // SOFTWARE ENGINEERING STUDENT
+Brasília, Brazil
+LinkedIn | GitHub | Portfolio
 
-STATUS: LEARNING → BUILDING → EVOLVING
-
+* 22 years old
+* Software Engineering
+* UniCEUB 2026
+* 1st semester ends 2030
+* README with a futuristic/tech aesthetic, yet appropriate for someone at the start of their career
+* Projects presented as part of a journey, rather than implying prior professional experience
 Software Engineering student building my foundation in programming, cybersecurity and technology.
 
 01 // ABOUT ME
@@ -78,7 +63,4 @@ Concept currently being developed.
 [■■■□□□□□□□] Cybersecurity
 [■■□□□□□□□] Software Engineering
 [■■□□□□□□□] Portfolio
-
-E eu não colocaria GitHub Stats, Snake, muitas badges ou “Top Languages” como se fossem o centro do perfil agora. No seu estágio, seus 5 projetos bem documentados vão valer muito mais visualmente e profissionalmente.
-
-Me mande só a mensagem/print onde aparecem os 5 nomes dos projetos e o nome da ideia que estamos escrevendo. Aí eu monto o README.md completo, já com o seu texto, estrutura, badges, cards, links e estética futurista — pronto para copiar e colar no GitHub, sem inventar nada.
+sta — pronto para copiar e colar no GitHub, sem inventar nada.
