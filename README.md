@@ -1,66 +1,30 @@
-CAROLINA // SOFTWARE ENGINEERING STUDENT
-Brasília, Brazil
-LinkedIn | GitHub | Portfolio
 
-* 22 years old
-* Software Engineering
-* UniCEUB 2026
-* 1st semester ends 2030
-* README with a futuristic/tech aesthetic, yet appropriate for someone at the start of their career
-* Projects presented as part of a journey, rather than implying prior professional experience
-Software Engineering student building my foundation in programming, cybersecurity and technology.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ana Carolina Lopes Lisboa
+==================================================================================================================================================
 
-01 // ABOUT ME
+Estudante de Engenharia Software
+--------------------------------
 
-Estudante de Engenharia de Software no primeiro semestre, atualmente construindo minha base em programação, começando por Python e SQL, enquanto estudo Cybersecurity.
+Eu comecei fazendo cursos solos agora estudo no CEUB, venho aprendendo linguagemes,progragramaçao, dados, Pyton, SQL e estou imerciva na lingua inglesa.
 
-Meu objetivo não é apenas aprender tecnologias, mas construir projetos que mostrem minha evolução e, ao longo do tempo, transformar essa base em soluções reais.
+* 🌍  I'm based in brasilia - destrito federal
+* ✉️  You can contact me at [ana.llisboa@sempreceub.com](mailto:ana.llisboa@sempreceub.com)
+* 🧠  I'm currently learning programacao de linguagens e dados
+* 👥  I'm looking to collaborate on estagios ou junior
 
-02 // CURRENTLY LEARNING
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
+</p>
 
-Python · SQL · Cybersecurity · Software Engineering
+### Socials
 
-03 // PROJECTS
+<p align="left"> <a href="https://www.github.com/lisboaana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/;lisboacarolina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-Aqui entrariam exatamente os 5 projetos que definimos, cada um com:
+<b>My GitHub Stats</b>
 
-01 — CALCULADDORA -Python -> OK 
-02 — SISTEMA_DE_CADASTRO
-03 — JOGO_ADIVINHAÇÃO
-04 — JOGO_ESTUDANTIL
-05 — NEUROBEUTY
+<a href="http://www.github.com/lisboaana"><img src="https://github-readme-stats.vercel.app/api?username=lisboaana&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="lisboaana's GitHub stats" /></a>
 
-E separadamente:
+<a href="http://www.github.com/lisboaana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lisboaana&stroke=ffffff&background=312e81&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-06 // IN DEVELOPMENT
-
-🧠 [projeto cuja ideia você está escrevendo]
-
-Concept currently being developed.
-
-04 // LANGUAGES
-
-🇧🇷 Portuguese — Native
-🇺🇸 English — Basic / Intermediate
-🇪🇸 Spanish — Intermediate
-🇮🇹 Italian — Basic
-
-05 // ROADMAP
-
-2026
-│
-├── Programming Fundamentals
-├── Python
-├── SQL
-├── Software Engineering
-├── Cybersecurity
-│
-└── Build → Document → Improve
-
-06 // CURRENT MISSION
-
-[■■■■□□□□□□] Programming
-[■■■□□□□□□□] Cybersecurity
-[■■□□□□□□□] Software Engineering
-[■■□□□□□□□] Portfolio
-sta — pronto para copiar e colar no GitHub, sem inventar nada.
+<a href="https://github.com/lisboaana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboaana&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
