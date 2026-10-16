@@ -1,5 +1,5 @@
 <div align="center">
-Ana Carolina Lopes Lisboa
+# Ana Carolina Lopes Lisboa
  
 **Engenharia de Software · 22 anos**
  
@@ -71,5 +71,6 @@ Minha trajetória começou na odontologia, mas sempre fui apaixonada por engenha
 ## 📫 Contato
  
 [![E-mail](https://img.shields.io/badge/E--mail-anacarolinalopeslisboa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacarolinalopeslisboa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Carolina_Lisboa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llisboacarolina?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![GitHub](https://img.shields.io/badge/GitHub-lisboaana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lisboaana)
  
