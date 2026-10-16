@@ -16,9 +16,9 @@
  
 ## 👋 Sobre mim
  
-Oi, eu sou a **Carol**! Tenho 22 anos e estudo **Engenharia de Software** em Brasília, com foco em **segurança**. Tenho um perfil **analítico e orientado a dados**, com raciocínio lógico, alta capacidade de aprendizado e muita proatividade.
- 
-Minha trajetória começou na odontologia, mas sempre fui apaixonada por engenharia, principalmente a que envolve ciência da computação. Lutei desde criança, e levo isso para o código: **inovação sobre a técnica bem feita**. Acredito na união de várias mentes para inovar. Também tenho interesse no **mercado financeiro**.
+Oi, eu sou a Carol! Tenho 22 anos e estudo Engenharia de Software em Brasília. Sou apaixonada por engenharia, principalmente a que envolve ciência da computação, e hoje meu foco é cyber segurança.
+
+Neste semestre assumi uma representação na Engenharia de Software. Tenho curiosidade, aprendo rápido e gosto de trabalhar em equipe, porque acredito na união e na inovação de várias mentes somadas.
  
 ## 🧰 Habilidades técnicas
  
