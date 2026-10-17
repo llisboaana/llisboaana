@@ -72,5 +72,28 @@ Neste semestre assumi uma representação na Engenharia de Software. Tenho curio
  
 [![E-mail](https://img.shields.io/badge/E--mail-anacarolinalopeslisboa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacarolinalopeslisboa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Carolina_Lisboa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llisboacarolina?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![GitHub](https://img.shields.io/badge/GitHub-lisboaana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lisboaana)
+[![GitHub](https://img.shields.io/badge/GitHub-lisboaana-181717?style=for-the-badge&logo=github&logoColor=white)](https://
+
+
+# 📂 Arquitetura do Repositório
+
+```text
+
+meu_study_hub_ti/
+│
+├── 01_Apresentacao_e_Perfil/
+│   └── README.md
+│
+├── 02_Disciplinas_Atuais/
+│   ├── Banco_de_Dados/
+│   ├── Bootcamp_1/
+│   ├── Engenharia_de_Software/
+│   ├── Introducao_a_Engenharia/
+│   └── Linguagem_de_Programacao/
+├── 03_projeto_certificados/
+│
+
+
+└── README.md
+github.com/lisboaana)
  
