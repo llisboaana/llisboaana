@@ -91,9 +91,6 @@ meu_study_hub_ti/
 │   ├── Introducao_a_Engenharia/
 │   └── Linguagem_de_Programacao/
 ├── 03_projeto_certificados/
-│
-
-
 └── README.md
 github.com/lisboaana)
  
